@@ -544,9 +544,19 @@ const copyText = (): void => {
     width: 22.438rem;
     .strength-container {
       h2 {
-        width: 3rem;
+        width: 3.5rem;
       }
     }
   }
+
+  // .character-range {
+  //   appearance: default;
+  //   -webkit-appearance: default;
+
+  //   &::-webkit-slider-thumb {
+  //     -webkit-appearance: default;
+  //     appearance: default;
+  //   }
+  // }
 }
 </style>
